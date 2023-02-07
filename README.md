@@ -26,10 +26,3 @@ A react demo of google calendar
 1.  **Meetings**: An entry on the calendar that cannot span more than one day
 2.  **Events**: An entry on the calendar that must span more than one day
 
-### NOTE:
-
-This demo does not support **event** but **meetings** fully supported.
-
-## Contributing
-
-In case of bug or feature request, feel free to file an issue.
